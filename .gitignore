@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.classs
+*.so
+.Python
+env/
+venv/
+dj-curator/
+*.egg-info/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporal
+temporal-data/
