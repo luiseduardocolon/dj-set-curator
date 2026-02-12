@@ -1,0 +1,545 @@
+====================================================================================================
+                                      COMPLETE DJ SET ANALYSIS                                      
+====================================================================================================
+
+SET OVERVIEW:
+  Total tracks:     20
+  Total duration:   85.9 minutes (1.4 hours)
+  Average BPM:      120.9
+  Average energy:   0.81/1.0
+  Average popularity: 88/100
+
+TRANSITION QUALITY:
+  Average score:       0.72/1.0
+  Excellent (≥0.8):    7 transitions (37%)
+  Good (0.6-0.8):      8 transitions (42%)
+  Acceptable (0.4-0.6): 3 transitions (16%)
+  Challenging (<0.4):  1 transitions (5%)
+  Harmonic violations: 6 (32%)
+
+ENERGY ARC:
+  Opening third:   0.79/1.0
+  Middle third:    0.81/1.0
+  Closing third:   0.84/1.0
+  ↑ Building arc - climax at the end
+
+BPM PROGRESSION:
+  Range: 99 - 160 BPM
+  Starting BPM: 117
+  Peak BPM: 160
+  Ending BPM: 100
+
+🔥 HIGH-IMPACT TRACKS (90+ popularity):
+    Track #1 (5%): Billie Jean (97/100)
+    Track #3 (15%): Thriller (94/100)
+    Track #4 (20%): Uptown Funk (95/100)
+  ★ Track #11 (55%): September (92/100)
+  ★ Track #13 (65%): Mr. Brightside (93/100)
+    Track #16 (80%): Crazy in Love (92/100)
+    Track #17 (85%): Stayin' Alive (91/100)
+    Track #18 (90%): Happy (93/100)
+    Track #19 (95%): Don't Stop Me Now (90/100)
+
+====================================================================================================
+
+====================================================================================================
+                                   TRACK-BY-TRACK JUSTIFICATIONS                                    
+====================================================================================================
+
+TRANSITION: Billie Jean → Get Lucky
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   11A → 11A
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   117.0 → 116.0 BPM (-1.0 BPM, 0.9% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.78 → 0.74 (-0.04 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 93/100
+   Position in set: 0% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.89/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Get Lucky → Thriller
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.80/1.0)
+   11A → 12A
+   ✓ Adjacent on Camelot wheel - smooth, professional transition
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   116.0 → 118.0 BPM (+2.0 BPM, 1.7% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.74 → 0.75 (+0.01 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 92/100
+   Position in set: 5% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.81/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Thriller → Uptown Funk
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   12A → 7A
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   118.0 → 115.0 BPM (-3.0 BPM, 2.5% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.75 → 0.82 (+0.07 change)
+   ✓ Gradual energy increase - building the vibe
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 94/100
+   Position in set: 11% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.61/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Uptown Funk → Treasure
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.70/1.0)
+   7A → 7B
+   ✓ Relative major/minor - shifts energy while staying harmonic
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   115.0 → 116.0 BPM (+1.0 BPM, 0.9% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.82 → 0.79 (-0.03 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 88/100
+   Position in set: 16% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.77/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Treasure → I Wanna Dance with Somebody
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   7B → 7B
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   116.0 → 119.0 BPM (+3.0 BPM, 2.6% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.79 → 0.84 (+0.05 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 84/100
+   Position in set: 21% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.89/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: I Wanna Dance with Somebody → Can't Stop the Feeling
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.80/1.0)
+   7B → 8B
+   ✓ Adjacent on Camelot wheel - smooth, professional transition
+
+2. BPM TRANSITION (Score: 0.70/1.0)
+   119.0 → 113.0 BPM (-6.0 BPM, 5.0% change)
+   ✓ Smooth transition - feels natural on the dancefloor
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.84 → 0.80 (-0.04 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 86/100
+   Position in set: 26% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.75/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Can't Stop the Feeling → 24K Magic
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   8B → 10A
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.70/1.0)
+   113.0 → 107.0 BPM (-6.0 BPM, 5.3% change)
+   ✓ Smooth transition - feels natural on the dancefloor
+
+3. ENERGY PROGRESSION (Score: 1.00/1.0)
+   0.80 → 0.80 (+0.00 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 86/100
+   Position in set: 32% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.59/1.0
+○ ACCEPTABLE transition - workable with skill
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: 24K Magic → Good Times
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.80/1.0)
+   10A → 9A
+   ✓ Adjacent on Camelot wheel - smooth, professional transition
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   107.0 → 109.0 BPM (+2.0 BPM, 1.9% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.80 → 0.77 (-0.03 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 78/100
+   Position in set: 37% (Peak zone: 35-65%)
+   ○ Solid crowd-pleaser - keeps energy consistent
+
+================================================================================
+OVERALL COMPATIBILITY: 0.81/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Good Times → Le Freak
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   9A → 9A
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.50/1.0)
+   109.0 → 120.0 BPM (+11.0 BPM, 10.1% change)
+   ⚠ Large tempo jump - may disrupt flow
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.77 → 0.79 (+0.02 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 74/100
+   Position in set: 42% (Peak zone: 35-65%)
+   ○ Solid crowd-pleaser - keeps energy consistent
+
+================================================================================
+OVERALL COMPATIBILITY: 0.77/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Le Freak → September
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   9A → 11B
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.70/1.0)
+   120.0 → 126.0 BPM (+6.0 BPM, 5.0% change)
+   ✓ Smooth transition - feels natural on the dancefloor
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.79 → 0.85 (+0.06 change)
+   ✓ Gradual energy increase - building the vibe
+
+4. CROWD ENGAGEMENT (Score: 1.00/1.0)
+   Avg Popularity: 84/100
+   Position in set: 47% (Peak zone: 35-65%)
+   🔥 BANGER at PEAK position - maximum crowd impact!
+
+================================================================================
+OVERALL COMPATIBILITY: 0.59/1.0
+○ ACCEPTABLE transition - workable with skill
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: September → Shut Up and Dance
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.80/1.0)
+   11B → 10B
+   ✓ Adjacent on Camelot wheel - smooth, professional transition
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   126.0 → 128.0 BPM (+2.0 BPM, 1.6% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.85 → 0.86 (+0.01 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 1.00/1.0)
+   Avg Popularity: 88/100
+   Position in set: 53% (Peak zone: 35-65%)
+   🔥 BANGER at PEAK position - maximum crowd impact!
+
+================================================================================
+OVERALL COMPATIBILITY: 0.85/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Shut Up and Dance → Mr. Brightside
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   10B → 10B
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.20/1.0)
+   128.0 → 148.0 BPM (+20.0 BPM, 15.6% change)
+   ⚠ Large tempo jump - may disrupt flow
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.86 → 0.88 (+0.02 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 1.00/1.0)
+   Avg Popularity: 88/100
+   Position in set: 58% (Peak zone: 35-65%)
+   🔥 BANGER at PEAK position - maximum crowd impact!
+
+================================================================================
+OVERALL COMPATIBILITY: 0.72/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Mr. Brightside → I Feel Good
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   10B → 10B
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   148.0 → 144.0 BPM (-4.0 BPM, 2.7% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.88 → 0.90 (+0.02 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 1.00/1.0)
+   Avg Popularity: 88/100
+   Position in set: 63% (Peak zone: 35-65%)
+   🔥 BANGER at PEAK position - maximum crowd impact!
+
+================================================================================
+OVERALL COMPATIBILITY: 0.93/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: I Feel Good → Dancing Queen
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.80/1.0)
+   10B → 11B
+   ✓ Adjacent on Camelot wheel - smooth, professional transition
+
+2. BPM TRANSITION (Score: 0.20/1.0)
+   144.0 → 102.0 BPM (-42.0 BPM, 29.2% change)
+   ⚠ Large tempo jump - may disrupt flow
+
+3. ENERGY PROGRESSION (Score: 0.60/1.0)
+   0.90 → 0.76 (-0.14 change)
+   ↓ Gentle cool-down - giving dancers a breather
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 86/100
+   Position in set: 68% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.56/1.0
+○ ACCEPTABLE transition - workable with skill
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Dancing Queen → Crazy in Love
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   11B → 4A
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   102.0 → 99.0 BPM (-3.0 BPM, 2.9% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.76 → 0.82 (+0.06 change)
+   ✓ Gradual energy increase - building the vibe
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 90/100
+   Position in set: 74% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.61/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Crazy in Love → Stayin' Alive
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   4A → 4A
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.70/1.0)
+   99.0 → 104.0 BPM (+5.0 BPM, 5.1% change)
+   ✓ Smooth transition - feels natural on the dancefloor
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.82 → 0.81 (-0.01 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 92/100
+   Position in set: 79% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.83/1.0
+✓ EXCELLENT transition - professional DJ-quality mix
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Stayin' Alive → Happy
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 1.00/1.0)
+   4A → 4A
+   ✓ Perfect match - same key maintains harmonic continuity
+
+2. BPM TRANSITION (Score: 0.20/1.0)
+   104.0 → 160.0 BPM (+56.0 BPM, 53.8% change)
+   ⚠ Large tempo jump - may disrupt flow
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.81 → 0.88 (+0.07 change)
+   ✓ Gradual energy increase - building the vibe
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 92/100
+   Position in set: 84% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.68/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Happy → Don't Stop Me Now
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   4A → 7B
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.90/1.0)
+   160.0 → 156.0 BPM (-4.0 BPM, 2.5% change)
+   ✓ Imperceptible change - crowd won't notice the shift
+
+3. ENERGY PROGRESSION (Score: 0.80/1.0)
+   0.88 → 0.92 (+0.04 change)
+   ✓ Maintains current energy - keeps momentum steady
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 92/100
+   Position in set: 89% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.61/1.0
+✓ GOOD transition - solid choice
+
+----------------------------------------------------------------------------------------------------
+
+TRANSITION: Don't Stop Me Now → Superstition
+================================================================================
+
+1. HARMONIC COMPATIBILITY (Score: 0.30/1.0)
+   7B → 2A
+   ⚠ Key clash - may sound dissonant to trained ears
+
+2. BPM TRANSITION (Score: 0.20/1.0)
+   156.0 → 100.5 BPM (-55.5 BPM, 35.6% change)
+   ⚠ Large tempo jump - may disrupt flow
+
+3. ENERGY PROGRESSION (Score: 0.60/1.0)
+   0.92 → 0.73 (-0.19 change)
+   ↓↓ Major energy drop - risk of losing momentum
+
+4. CROWD ENGAGEMENT (Score: 0.60/1.0)
+   Avg Popularity: 90/100
+   Position in set: 95% (Peak zone: 35-65%)
+   🔥 High-recognition track - crowd favorite
+
+================================================================================
+OVERALL COMPATIBILITY: 0.36/1.0
+⚠ CHALLENGING transition - requires expert technique
+
+----------------------------------------------------------------------------------------------------
+
+FINAL TRACK: Superstition by Stevie Wonder
+  BPM: 100.5, Camelot: 2A, Energy: 0.73, Pop: 89
+  Perfect closer - ends the set on a high note!
