@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DJ Set Curator - Harmonic Mixing Engine</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #764ba2;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        .subtitle {
+            color: #6            col font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .feature {
+            padding: 15px;            padding: 15px#f8f9fa;
+            border-radius: 5px;
+            border-left: 4px solid #667eea;
+        }
+        .attribution {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f4f4f4;
+            border-left: 4px solid #764ba2;
+            border-radius: 5px;
+        }
+        .attribution h3 {        .attribution h3 {        .attribution h3764ba2;
+        }
+        .attribution a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .attribution a:hover {
+            text-decoration: underline;
+        }
+        .cta-buttons {
+            margin: 30px 0;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        .button:hover {
+            background: #764ba2;
+        }
+        .button.secondary {
+            background: #764ba2;
+        }
+        .button.secondary:hover {
+            background: #667eea;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monosp             }
+        .tech-stack {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .tech-badge {
+            padding: 6px 12px;
+            background: #667eea;
+            color: white;
+            border-radius: 15px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎵 DJ Set Curator</h1>
+        <p class="subtitle">An open-source harmonic mixing engine for DJs</p>
+        
+        <p>DJ Set Curator uses the Camelot Wheel system and multi-source music data APIs to create perfectly sequenced DJ sets with smooth harmonic transitions, optimal energy progression, and crowd-pleasing track placement.</p>
+        
+        <div class="cta-buttons">
+            <a href="https://github.com/luiseduardocolon/dj-set-curator" class="button">View on GitHub</a>
+            <a href="https://github.com/luiseduardocolon/dj-set-curator#readme" class="button secondary">Documentation</a>
+        </div>
+
+        <h2>✨ Features</h2>
+        <div class="features">
+            <div class="feature">
+                <strong>🎹 Harmonic Mixing</strong>
+                <p>Uses Camelot Wheel notation to ensure compatible key transitions between tracks.</p>
+            </div>
+            <div class="feature">
+                <strong>⚡ BPM Matching</strong>
+                <p>Smooth tempo progression with configurable B                <p>Smooth tempo progression with configurable B            ature">
+                <strong>📊 Energy Optimization</strong>
+                <p>Strategic placement of high-energy tracks at peak moments in the set.</p>
+            </div>
+            <div class="feature">
+                <strong>🔥 Popularity Weighting</strong>
+                                                                                                                     lass="feature">
+                <strong>🔄 Multi-Source APIs</strong>
+                <p>Hybrid data fetching from multiple free music APIs for maximum coverage.</p>
+                                div class="feature">
+                <strong>⚙️ Temporal Workflows</strong>
+                <p>Built with Temporal.io for fault-tolerant, distributed processing.</p>
+            </div>
+        </div>
+
+        <h2>🛠 Technology Stack</h2>
+        <div class="tech-stack">
+            <span class="tech-badge">Python 3.14</span>
+            <span class="tech-badge">Temporal.io</span>
+            <span class="tech-badge">MusicBrainz API</span>
+            <span class="tech-badge">GetSongBPM API</span>
+            <span class="tech-badge">Last.fm API</span>
+        </div>
+
+        <h2>🎯 How It Works</h2>
+        <ol>
+            <li><strong>Data Collection</strong>: Fetches track metadata, BPM, musical keys, and popularity from multiple APIs</li>
+            <li><strong>Camelot Conversion</strong>: Converts Spotify/GetSongBPM keys to Camelot notation (e.g., 8A, 5B)</li>
+            <li><strong>Compatibility Scoring</strong>: Calculates harmonic, BPM, energy, and popularity scores for each transition</li>
+            <li><strong>Greedy Sequencing</strong>: Uses multi-factor optimization to build the optimal track order</li>
+            <li><strong>Justification Engine</strong>: Explains every transition decision for transparency and learning</li>
+        </ol>
+
+        <h2>📖 Example Output</h2>
+        <code>
+            Track 1 → Track 2<br>
+            ✓ Harmonic: 8A → 9A (adjacent, smooth)<br>
+            ✓ BPM: 128.0 → 126.5 (-1.2%, gradual)<br>
+            ✓ Energy: 0.85 → 0.82 (maintaining high energy)<br>
+            ✓ Popularity: 87/100 (crowd favorite positioned at peak)<br>
+            Overall Score: 0.91/1.0
+        </code>
+
+        <div class="attribution">
+            <h3>🙏 Attribution & Data Sources</h3>
+            <p>This project is powered by the following free and open-source APIs:</p>
+            <ul>
+                <li><strong>BPM and Musical Key Data</strong>: Provided by <a href="https://getsongbpm.com" target="_blank">GetSongBPM.com</a></li>
+                <li><strong>Track Popularity Metrics</strong>: Powered by <a href="https://www.last.fm" target="_blank">Last.fm</a></li>
+                <li><strong>Music Metadata</strong>: From <a href="https://musicbrainz.org" target="_blank">MusicBrainz</a></li>
+            </ul>
+            <p>Special thanks to these communities for making music data accessible to developers and DJs worldwide! 🎶</p>
+        </div>
+
+        <h2>📝 License</h2>
+        <p>MIT License - See <a href="https://github.com/luiseduardocolon/dj-set-curator/blob/main/LICENSE">LICENSE</a> for details.</p>
+
+        <h2>👨‍💻 Author</h2>
+        <p>Built by <a href="https://github.com/luiseduardocolon">Luis Eduardo Colón</a></p>
+        
+        <div class="cta-buttons">
+            <a href="https://github.com/luiseduardocolon/dj-set-curator" class="button">Star on GitHub ⭐</a>
+        </div>
+    </div>
+</body>
+</html>
