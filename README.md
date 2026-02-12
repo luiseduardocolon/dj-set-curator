@@ -30,3 +30,21 @@ Check commit history to see incremental development process!
 ## License
 MIT
 
+
+## Dataset
+
+After encountering API restrictions on February 11, 2026 (Spotify lockdown, GetSongBPM approval requirements), this project uses a curated dataset to focus on the core algorithmic innovation.
+
+The dataset (`tracks_dataset.json`) includes 20 popular tracks with verified:
+- BPM (tempo)
+- Musical key and mode
+- Energy and danceability metrics
+- Popularity scores
+
+This approach prioritizes:
+- **Reliability**: No API failures during demos
+- **Reproducibility**: Consistent results
+- **Focus**: Algorithm development over API integration
+- **Performance**: No rate limiting delays
+
+The multi-source API fetcher code remains in the repository as proof of concept.
