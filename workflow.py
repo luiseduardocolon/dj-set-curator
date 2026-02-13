@@ -1,49 +1,50 @@
 """
 Temporal Workflows - DJ Set Curator
-
-Workflows orchestrate activities into complete processes
-Each workflow represents a full DJ set creation pipeline
+Complete pipeline orchestration
 """
 from datetime import timedelta
 from temporalio import workflow
 from temporalio.common import RetryPolicy
 
-# We'll import activity types when needed
 with workflow.unsafe.imports_passed_through():
-    from activities import load_tracks_activity
+    from activities import (
+        load_tracks_activity,
+        sequence_tracks_activity,
+        generate_justifications_activity
+    )
 
 @workflow.defn
 class DJSetWorkflow:
     """
-    Main workflow for creating optimized DJ sets
+    Complete DJ Set Creation Workflow
     
-    This workflow will eventually:
-    1. Load tracks
-    2. Calculate Camelot keys
-    3. Score compatibility
-    4. Sequence tracks
-    5. Generate justifications
+    Pipeline:
+    1. Load tracks from dataset
+    2. Sequence tracks using greedy algorithm
+    3. Generate justifications and analysis
     
-    For Hour 7, we start with just step 1.
+    Each step is a separate activity with:
+    - Automatic retries
+    - Timeout protection
+    - Progress tracking
     """
     
     @workflow.run
     async def run(self, dataset_path: str = 'tracks_enriched.json') -> dict:
         """
-        Execute the DJ set creation workflow
+        Execute the complete DJ set creation pipeline
         
         Args:
             dataset_path: Path to track dataset
             
         Returns:
-            Dict with workflow results
+            Complete DJ set with justifications
         """
         workflow.logger.info("=" * 70)
-        workflow.logger.info("DJ Set Workflow Started")
+        workflow.logger.info("DJ SET WORKFLOW STARTED")
         workflow.logger.info("=" * 70)
         
-        # Define retry policy for activities
-        # If an activity fails, Temporal will automatically retry it
+        # Retry policy for all activities
         retry_policy = RetryPolicy(
             initial_interval=timedelta(seconds=1),
             maximum_interval=timedelta(seconds=10),
@@ -51,8 +52,8 @@ class DJSetWorkflow:
             maximum_attempts=3,
         )
         
-        # Step 1: Load tracks (with automatic retries)
-        workflow.logger.info("Step 1: Loading track dataset...")
+        # STEP 1: Load tracks
+        workflow.logger.info("Step 1/3: Loading track dataset...")
         
         tracks = await workflow.execute_activity(
             load_tracks_activity,
@@ -61,30 +62,38 @@ class DJSetWorkflow:
             retry_policy=retry_policy,
         )
         
-        workflow.logger.info(f"Loaded {len(tracks)} tracks successfully")
+        workflow.logger.info(f"✓ Loaded {len(tracks)} tracks")
         
-        # For now, just return the loaded tracks
-        result = {
-            'status': 'success',
-            'tracks_loaded': len(tracks),
-            'sample_tracks': [
-                {
-                    'track': t['track'],
-                    'artist': t['artist'],
-                    'bpm': t['bpm'],
-                    'camelot': t['camelot']
-                }
-                for t in tracks[:3]  # First 3 tracks as sample
-            ]
-        }
+        # STEP 2: Sequence tracks
+        workflow.logger.info("Step 2/3: Sequencing tracks with greedy algorithm...")
+        
+        sequenced = await workflow.execute_activity(
+            sequence_tracks_activity,
+            tracks,
+            start_to_close_timeout=timedelta(seconds=60),
+            retry_policy=retry_policy,
+        )
+        
+        workflow.logger.info(f"✓ Sequenced {len(sequenced)} tracks")
+        
+        # STEP 3: Generate justifications
+        workflow.logger.info("Step 3/3: Generating justifications and analysis...")
+        
+        justifications = await workflow.execute_activity(
+            generate_justifications_activity,
+            sequenced,
+            start_to_close_timeout=timedelta(seconds=60),
+            retry_policy=retry_policy,
+        )
+        
+        workflow.logger.info(f"✓ Generated justifications")
         
         workflow.logger.info("=" * 70)
-        workflow.logger.info("DJ Set Workflow Completed")
+        workflow.logger.info("DJ SET WORKFLOW COMPLETED SUCCESSFULLY")
         workflow.logger.info("=" * 70)
         
-        return result
+        return justifications
 
-# Keep the old HelloWorkflow for backwards compatibility
 @workflow.defn
 class HelloWorkflow:
     """Simple hello world workflow (from Hour 6)"""
