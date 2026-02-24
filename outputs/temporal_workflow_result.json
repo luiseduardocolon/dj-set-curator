@@ -1,0 +1,400 @@
+{
+  "metrics": {
+    "avg_transition_score": 0.7173684210526317,
+    "total_duration_minutes": 85.91666666666667,
+    "total_tracks": 20
+  },
+  "sequence": [
+    {
+      "artist": "Michael Jackson",
+      "bpm": 117.0,
+      "camelot": "11A",
+      "energy": 0.78,
+      "popularity": 97,
+      "track": "Billie Jean"
+    },
+    {
+      "artist": "Daft Punk ft. Pharrell Williams",
+      "bpm": 116.0,
+      "camelot": "11A",
+      "energy": 0.74,
+      "popularity": 89,
+      "track": "Get Lucky"
+    },
+    {
+      "artist": "Michael Jackson",
+      "bpm": 118.0,
+      "camelot": "12A",
+      "energy": 0.75,
+      "popularity": 94,
+      "track": "Thriller"
+    },
+    {
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "bpm": 115.0,
+      "camelot": "7A",
+      "energy": 0.82,
+      "popularity": 95,
+      "track": "Uptown Funk"
+    },
+    {
+      "artist": "Bruno Mars",
+      "bpm": 116.0,
+      "camelot": "7B",
+      "energy": 0.79,
+      "popularity": 82,
+      "track": "Treasure"
+    },
+    {
+      "artist": "Whitney Houston",
+      "bpm": 119.0,
+      "camelot": "7B",
+      "energy": 0.84,
+      "popularity": 86,
+      "track": "I Wanna Dance with Somebody"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "bpm": 113.0,
+      "camelot": "8B",
+      "energy": 0.8,
+      "popularity": 87,
+      "track": "Can't Stop the Feeling"
+    },
+    {
+      "artist": "Bruno Mars",
+      "bpm": 107.0,
+      "camelot": "10A",
+      "energy": 0.8,
+      "popularity": 85,
+      "track": "24K Magic"
+    },
+    {
+      "artist": "Chic",
+      "bpm": 109.0,
+      "camelot": "9A",
+      "energy": 0.77,
+      "popularity": 72,
+      "track": "Good Times"
+    },
+    {
+      "artist": "Chic",
+      "bpm": 120.0,
+      "camelot": "9A",
+      "energy": 0.79,
+      "popularity": 75,
+      "track": "Le Freak"
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "bpm": 126.0,
+      "camelot": "11B",
+      "energy": 0.85,
+      "popularity": 92,
+      "track": "September"
+    },
+    {
+      "artist": "Walk the Moon",
+      "bpm": 128.0,
+      "camelot": "10B",
+      "energy": 0.86,
+      "popularity": 84,
+      "track": "Shut Up and Dance"
+    },
+    {
+      "artist": "The Killers",
+      "bpm": 148.0,
+      "camelot": "10B",
+      "energy": 0.88,
+      "popularity": 93,
+      "track": "Mr. Brightside"
+    },
+    {
+      "artist": "James Brown",
+      "bpm": 144.0,
+      "camelot": "10B",
+      "energy": 0.9,
+      "popularity": 83,
+      "track": "I Feel Good"
+    },
+    {
+      "artist": "ABBA",
+      "bpm": 102.0,
+      "camelot": "11B",
+      "energy": 0.76,
+      "popularity": 88,
+      "track": "Dancing Queen"
+    },
+    {
+      "artist": "Beyonc\u00e9 ft. Jay-Z",
+      "bpm": 99.0,
+      "camelot": "4A",
+      "energy": 0.82,
+      "popularity": 92,
+      "track": "Crazy in Love"
+    },
+    {
+      "artist": "Bee Gees",
+      "bpm": 104.0,
+      "camelot": "4A",
+      "energy": 0.81,
+      "popularity": 91,
+      "track": "Stayin' Alive"
+    },
+    {
+      "artist": "Pharrell Williams",
+      "bpm": 160.0,
+      "camelot": "4A",
+      "energy": 0.88,
+      "popularity": 93,
+      "track": "Happy"
+    },
+    {
+      "artist": "Queen",
+      "bpm": 156.0,
+      "camelot": "7B",
+      "energy": 0.92,
+      "popularity": 90,
+      "track": "Don't Stop Me Now"
+    },
+    {
+      "artist": "Stevie Wonder",
+      "bpm": 100.5,
+      "camelot": "2A",
+      "energy": 0.73,
+      "popularity": 89,
+      "track": "Superstition"
+    }
+  ],
+  "summary": "====================================================================================================\n                                      COMPLETE DJ SET ANALYSIS                                      \n====================================================================================================\n\nSET OVERVIEW:\n  Total tracks:     20\n  Total duration:   85.9 minutes (1.4 hours)\n  Average BPM:      120.9\n  Average energy:   0.81/1.0\n  Average popularity: 88/100\n\nTRANSITION QUALITY:\n  Average score:       0.72/1.0\n  Excellent (\u22650.8):    7 transitions (37%)\n  Good (0.6-0.8):      8 transitions (42%)\n  Acceptable (0.4-0.6): 3 transitions (16%)\n  Challenging (<0.4):  1 transitions (5%)\n  Harmonic violations: 6 (32%)\n\nENERGY ARC:\n  Opening third:   0.79/1.0\n  Middle third:    0.81/1.0\n  Closing third:   0.84/1.0\n  \u2191 Building arc - climax at the end\n\nBPM PROGRESSION:\n  Range: 99 - 160 BPM\n  Starting BPM: 117\n  Peak BPM: 160\n  Ending BPM: 100\n\n\ud83d\udd25 HIGH-IMPACT TRACKS (90+ popularity):\n    Track #1 (5%): Billie Jean (97/100)\n    Track #3 (15%): Thriller (94/100)\n    Track #4 (20%): Uptown Funk (95/100)\n  \u2605 Track #11 (55%): September (92/100)\n  \u2605 Track #13 (65%): Mr. Brightside (93/100)\n    Track #16 (80%): Crazy in Love (92/100)\n    Track #17 (85%): Stayin' Alive (91/100)\n    Track #18 (90%): Happy (93/100)\n    Track #19 (95%): Don't Stop Me Now (90/100)\n\n====================================================================================================",
+  "transitions": [
+    {
+      "from_track": "Billie Jean",
+      "position": 0.0,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 0.6,
+        "total": 0.8900000000000001
+      },
+      "to_track": "Get Lucky"
+    },
+    {
+      "from_track": "Get Lucky",
+      "position": 0.05263157894736842,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.8,
+        "popularity": 0.6,
+        "total": 0.81
+      },
+      "to_track": "Thriller"
+    },
+    {
+      "from_track": "Thriller",
+      "position": 0.10526315789473684,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.3,
+        "popularity": 0.6,
+        "total": 0.6100000000000001
+      },
+      "to_track": "Uptown Funk"
+    },
+    {
+      "from_track": "Uptown Funk",
+      "position": 0.15789473684210525,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.7,
+        "popularity": 0.6,
+        "total": 0.77
+      },
+      "to_track": "Treasure"
+    },
+    {
+      "from_track": "Treasure",
+      "position": 0.21052631578947367,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 0.6,
+        "total": 0.8900000000000001
+      },
+      "to_track": "I Wanna Dance with Somebody"
+    },
+    {
+      "from_track": "I Wanna Dance with Somebody",
+      "position": 0.2631578947368421,
+      "scores": {
+        "bpm": 0.7,
+        "energy": 0.8,
+        "harmonic": 0.8,
+        "popularity": 0.6,
+        "total": 0.7500000000000001
+      },
+      "to_track": "Can't Stop the Feeling"
+    },
+    {
+      "from_track": "Can't Stop the Feeling",
+      "position": 0.3157894736842105,
+      "scores": {
+        "bpm": 0.7,
+        "energy": 1.0,
+        "harmonic": 0.3,
+        "popularity": 0.6,
+        "total": 0.59
+      },
+      "to_track": "24K Magic"
+    },
+    {
+      "from_track": "24K Magic",
+      "position": 0.3684210526315789,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.8,
+        "popularity": 0.6,
+        "total": 0.81
+      },
+      "to_track": "Good Times"
+    },
+    {
+      "from_track": "Good Times",
+      "position": 0.42105263157894735,
+      "scores": {
+        "bpm": 0.5,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 0.6,
+        "total": 0.77
+      },
+      "to_track": "Le Freak"
+    },
+    {
+      "from_track": "Le Freak",
+      "position": 0.47368421052631576,
+      "scores": {
+        "bpm": 0.7,
+        "energy": 0.8,
+        "harmonic": 0.3,
+        "popularity": 1.0,
+        "total": 0.5900000000000001
+      },
+      "to_track": "September"
+    },
+    {
+      "from_track": "September",
+      "position": 0.5263157894736842,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.8,
+        "popularity": 1.0,
+        "total": 0.8500000000000001
+      },
+      "to_track": "Shut Up and Dance"
+    },
+    {
+      "from_track": "Shut Up and Dance",
+      "position": 0.5789473684210527,
+      "scores": {
+        "bpm": 0.2,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 1.0,
+        "total": 0.7200000000000001
+      },
+      "to_track": "Mr. Brightside"
+    },
+    {
+      "from_track": "Mr. Brightside",
+      "position": 0.631578947368421,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 1.0,
+        "total": 0.93
+      },
+      "to_track": "I Feel Good"
+    },
+    {
+      "from_track": "I Feel Good",
+      "position": 0.6842105263157895,
+      "scores": {
+        "bpm": 0.2,
+        "energy": 0.6,
+        "harmonic": 0.8,
+        "popularity": 0.6,
+        "total": 0.56
+      },
+      "to_track": "Dancing Queen"
+    },
+    {
+      "from_track": "Dancing Queen",
+      "position": 0.7368421052631579,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.3,
+        "popularity": 0.6,
+        "total": 0.6100000000000001
+      },
+      "to_track": "Crazy in Love"
+    },
+    {
+      "from_track": "Crazy in Love",
+      "position": 0.7894736842105263,
+      "scores": {
+        "bpm": 0.7,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 0.6,
+        "total": 0.8300000000000001
+      },
+      "to_track": "Stayin' Alive"
+    },
+    {
+      "from_track": "Stayin' Alive",
+      "position": 0.8421052631578947,
+      "scores": {
+        "bpm": 0.2,
+        "energy": 0.8,
+        "harmonic": 1.0,
+        "popularity": 0.6,
+        "total": 0.68
+      },
+      "to_track": "Happy"
+    },
+    {
+      "from_track": "Happy",
+      "position": 0.8947368421052632,
+      "scores": {
+        "bpm": 0.9,
+        "energy": 0.8,
+        "harmonic": 0.3,
+        "popularity": 0.6,
+        "total": 0.6100000000000001
+      },
+      "to_track": "Don't Stop Me Now"
+    },
+    {
+      "from_track": "Don't Stop Me Now",
+      "position": 0.9473684210526315,
+      "scores": {
+        "bpm": 0.2,
+        "energy": 0.6,
+        "harmonic": 0.3,
+        "popularity": 0.6,
+        "total": 0.36
+      },
+      "to_track": "Superstition"
+    }
+  ]
+}
