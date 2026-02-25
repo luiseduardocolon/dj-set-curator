@@ -9,10 +9,11 @@ $allGood = $true
 
 # Check Python
 Write-Host "`n[1/7] Checking Python..." -ForegroundColor Yellow
-try {
+$pythonCheck = Get-Command python -ErrorAction SilentlyContinue
+if ($pythonCheck) {
     $pythonVersion = python --version 2>&1
     Write-Host "  ✓ $pythonVersion" -ForegroundColor Green
-} catch {
+} else {
     Write-Host "  ✗ Python not found" -ForegroundColor Red
     Write-Host "    Install from: https://python.org" -ForegroundColor Gray
     $allGood = $false
@@ -20,10 +21,11 @@ try {
 
 # Check Git
 Write-Host "`n[2/7] Checking Git..." -ForegroundColor Yellow
-try {
+$gitCheck = Get-Command git -ErrorAction SilentlyContinue
+if ($gitCheck) {
     $gitVersion = git --version 2>&1
     Write-Host "  ✓ $gitVersion" -ForegroundColor Green
-} catch {
+} else {
     Write-Host "  ✗ Git not found" -ForegroundColor Red
     Write-Host "    Install from: https://git-scm.com" -ForegroundColor Gray
     $allGood = $false
@@ -31,10 +33,11 @@ try {
 
 # Check Temporal CLI
 Write-Host "`n[3/7] Checking Temporal CLI..." -ForegroundColor Yellow
-try {
+$temporalCheck = Get-Command temporal -ErrorAction SilentlyContinue
+if ($temporalCheck) {
     $temporalVersion = temporal --version 2>&1
     Write-Host "  ✓ $temporalVersion" -ForegroundColor Green
-} catch {
+} else {
     Write-Host "  ✗ Temporal CLI not found" -ForegroundColor Red
     Write-Host "    Install from: https://github.com/temporalio/cli/releases" -ForegroundColor Gray
     $allGood = $false
